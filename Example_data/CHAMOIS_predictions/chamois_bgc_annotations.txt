@@ -1,0 +1,575 @@
+C1R1
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.999                  │
+│ ├── CHEMONTID:0000160 (Lactams): 0.730                                   │
+│ ├── CHEMONTID:0002648 (Tetrahydrofurans): 0.641                          │
+│ └── CHEMONTID:0004139 (Azacyclic compounds): 0.989                       │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 1.000                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.785          │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 1.000                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.871                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.997                  │
+│ │   │   ├── CHEMONTID:0001292 (Cyclic alcohols and derivatives): 0.642   │
+│ │   │   └── CHEMONTID:0001661 (Secondary alcohols): 0.991                │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.915                    │
+│ │       └── CHEMONTID:0000118 (Ketones): 0.915                           │
+│ │           └── CHEMONTID:0003487 (Cyclic ketones): 0.915                │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.962                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.935                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.935                  │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R4
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.864                  │
+│ ├── CHEMONTID:0000050 (Lactones): 0.864                                  │
+│ └── CHEMONTID:0000160 (Lactams): 0.642                                   │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.826               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.826                               │
+│     ├── CHEMONTID:0000324 (Fatty acid esters): 0.549                     │
+│     └── CHEMONTID:0000331 (Fatty amides): 0.826                          │
+│         └── CHEMONTID:0001096 (N-acyl amines): 0.668                     │
+│ CHEMONTID:0000261 (Phenylpropanoids and polyketides): 0.748              │
+│ ├── CHEMONTID:0000064 (Macrolactams): 0.658                              │
+│ └── CHEMONTID:0000147 (Macrolides and analogues): 0.510                  │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.897                 │
+│ ├── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.897          │
+│ │   ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.568  │
+│ │   │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.568       │
+│ │   │       └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│ │   │           0.568                                                    │
+│ │   │           └── CHEMONTID:0001189 (N-acyl-alpha amino acids and      │
+│ │   │               derivatives): 0.511                                  │
+│ │   │               └── CHEMONTID:0002402 (N-acyl-alpha amino acids):    │
+│ │   │                   0.511                                            │
+│ │   └── CHEMONTID:0001205 (Carboxylic acids): 0.897                      │
+│ └── CHEMONTID:0001813 (Peptidomimetics): 0.658                           │
+│     └── CHEMONTID:0001961 (Depsipeptides): 0.658                         │
+│         └── CHEMONTID:0001994 (Cyclic depsipeptides): 0.658              │
+│ CHEMONTID:0002448 (Benzenoids): 0.983                                    │
+│ ├── CHEMONTID:0000134 (Phenols): 0.765                                   │
+│ │   └── CHEMONTID:0004646 (1-hydroxy-2-unsubstituted benzenoids): 0.765  │
+│ └── CHEMONTID:0002279 (Benzene and substituted derivatives): 0.904       │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.999                       │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.994                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.994                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.619                  │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.507                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.735                            │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R5
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 1.000                  │
+│ ├── CHEMONTID:0000160 (Lactams): 0.939                                   │
+│ ├── CHEMONTID:0002012 (Oxanes): 0.999                                    │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.980                       │
+│ └── CHEMONTID:0004140 (Oxacyclic compounds): 0.997                       │
+│ CHEMONTID:0000261 (Phenylpropanoids and polyketides): 0.847              │
+│ └── CHEMONTID:0000064 (Macrolactams): 0.847                              │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.999                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.831          │
+│     └── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.831           │
+│         ├── CHEMONTID:0000475 (Carboxylic acid amides): 0.571            │
+│         │   └── CHEMONTID:0001663 (Secondary carboxylic acid amides):    │
+│         │       0.571                                                    │
+│         └── CHEMONTID:0001238 (Carboxylic acid esters): 0.519            │
+│             └── CHEMONTID:0003628 (Alpha,beta-unsaturated carboxylic     │
+│                 esters): 0.519                                           │
+│                 └── CHEMONTID:0003626 (Enoate esters): 0.519             │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 1.000                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.967                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000011 (Carbohydrates and carbohydrate conjugates):   │
+│ │   │   0.972                                                            │
+│ │   │   ├── CHEMONTID:0002105 (Glycosyl compounds): 0.854                │
+│ │   │   │   └── CHEMONTID:0002207 (O-glycosyl compounds): 0.828          │
+│ │   │   └── CHEMONTID:0003305 (Aminosaccharides): 0.904                  │
+│ │   │       └── CHEMONTID:0000282 (Aminoglycosides): 0.643               │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 1.000                  │
+│ │   │   └── CHEMONTID:0001661 (Secondary alcohols): 1.000                │
+│ │   ├── CHEMONTID:0000254 (Ethers): 0.993                                │
+│ │   │   ├── CHEMONTID:0001092 (Hemiacetals): 0.813                       │
+│ │   │   └── CHEMONTID:0001656 (Acetals): 0.991                           │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.555                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.969                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.997                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.997                  │
+│     └── CHEMONTID:0002449 (Amines): 0.859                                │
+│         ├── CHEMONTID:0002451 (Secondary amines): 0.509                  │
+│         │   └── CHEMONTID:0002228 (Dialkylamines): 0.509                 │
+│         └── CHEMONTID:0002460 (Alkanolamines): 0.859                     │
+│             └── CHEMONTID:0001897 (1,2-aminoalcohols): 0.714             │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R6
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.838                  │
+│ ├── CHEMONTID:0000218 (Pyrrolidines): 0.578                              │
+│ ├── CHEMONTID:0002389 (Diazinanes): 0.668                                │
+│ │   └── CHEMONTID:0000189 (Piperazines): 0.668                           │
+│ │       └── CHEMONTID:0003357 (N-alkylpiperazines): 0.668                │
+│ │           └── CHEMONTID:0003358 (N-methylpiperazines): 0.561           │
+│ ├── CHEMONTID:0002491 (Azolidines): 0.581                                │
+│ │   └── CHEMONTID:0000108 (Oxazolidines): 0.520                          │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.838                       │
+│ └── CHEMONTID:0004788 (Diazanaphthalenes): 0.694                         │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.997                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.997          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.744  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.593       │
+│     └── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.864           │
+│         └── CHEMONTID:0000475 (Carboxylic acid amides): 0.818            │
+│             └── CHEMONTID:0001663 (Secondary carboxylic acid amides):    │
+│                 0.598                                                    │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 1.000                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.883                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.999                    │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.996                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 1.000                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.998                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.998                  │
+│     └── CHEMONTID:0002449 (Amines): 0.723                                │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R7
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.656                  │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.907               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.907                               │
+│     └── CHEMONTID:0000262 (Fatty acids and conjugates): 0.519            │
+│         └── CHEMONTID:0000338 (Branched fatty acids): 0.519              │
+│ CHEMONTID:0000261 (Phenylpropanoids and polyketides): 0.522              │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.827                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.516          │
+│     └── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.516  │
+│         └── CHEMONTID:0000347 (Amino acids and derivatives): 0.516       │
+│             └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│                 0.516                                                    │
+│ CHEMONTID:0002448 (Benzenoids): 0.754                                    │
+│ └── CHEMONTID:0000134 (Phenols): 0.531                                   │
+│ CHEMONTID:0003297 (Organic Polymers): 0.502                              │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.993                       │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.991                      │
+│ └── CHEMONTID:0000323 (Organooxygen compounds): 0.991                    │
+│     └── CHEMONTID:0001831 (Carbonyl compounds): 0.616                    │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.834                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.834                  │
+│     ├── CHEMONTID:0000007 (Amidines): 0.834                              │
+│     └── CHEMONTID:0002449 (Amines): 0.601                                │
+│         ├── CHEMONTID:0002450 (Primary amines): 0.601                    │
+│         │   └── CHEMONTID:0000469 (Monoalkylamines): 0.551               │
+│         └── CHEMONTID:0003899 (Aralkylamines): 0.502                     │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R9
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.840                  │
+│ ├── CHEMONTID:0000218 (Pyrrolidines): 0.547                              │
+│ └── CHEMONTID:0004139 (Azacyclic compounds): 0.840                       │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.859               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.537                               │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.917                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.882          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.817  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.810       │
+│     ├── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.520           │
+│     └── CHEMONTID:0001137 (Monocarboxylic acids and derivatives): 0.663  │
+│ CHEMONTID:0002448 (Benzenoids): 0.798                                    │
+│ CHEMONTID:0003630 (Organic 1,3-dipolar compounds): 0.511                 │
+│ └── CHEMONTID:0003633 (Propargyl-type 1,3-dipolar organic compounds):    │
+│     0.511                                                                │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 1.000                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.914                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.999                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.747                  │
+│ │   │   └── CHEMONTID:0000286 (Primary alcohols): 0.591                  │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.727                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.982                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.999                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.999                  │
+│     └── CHEMONTID:0002449 (Amines): 0.901                                │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R10
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.992                  │
+│ ├── CHEMONTID:0000090 (Pyrroles): 0.947                                  │
+│ ├── CHEMONTID:0000160 (Lactams): 0.621                                   │
+│ ├── CHEMONTID:0000211 (Indoles and derivatives): 0.971                   │
+│ │   └── CHEMONTID:0002497 (Indoles): 0.971                               │
+│ │       └── CHEMONTID:0004196 (3-alkylindoles): 0.510                    │
+│ ├── CHEMONTID:0000436 (Azoles): 0.622                                    │
+│ │   └── CHEMONTID:0000078 (Imidazoles): 0.622                            │
+│ │       └── CHEMONTID:0002310 (Substituted imidazoles): 0.622            │
+│ │           └── CHEMONTID:0002311 (N-substituted imidazoles): 0.622      │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.925                       │
+│ └── CHEMONTID:0004144 (Heteroaromatic compounds): 0.920                  │
+│ CHEMONTID:0000004 (Organosulfur compounds): 0.912                        │
+│ ├── CHEMONTID:0001202 (Thioethers): 0.912                                │
+│ │   ├── CHEMONTID:0002352 (Thioenol ethers): 0.898                       │
+│ │   └── CHEMONTID:0003862 (Dialkylthioethers): 0.912                     │
+│ └── CHEMONTID:0003260 (Sulfenyl compounds): 0.588                        │
+│ CHEMONTID:0000261 (Phenylpropanoids and polyketides): 0.566              │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.996                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.996          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.996  │
+│     │   ├── CHEMONTID:0000347 (Amino acids and derivatives): 0.996       │
+│     │   │   └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│     │   │       0.996                                                    │
+│     │   │       ├── CHEMONTID:0001189 (N-acyl-alpha amino acids and      │
+│     │   │       │   derivatives): 0.979                                  │
+│     │   │       ├── CHEMONTID:0002309 (Alpha amino acid amides): 0.932   │
+│     │   │       ├── CHEMONTID:0004310 (Valine and derivatives): 0.878    │
+│     │   │       ├── CHEMONTID:0004313 (Cysteine and derivatives): 0.632  │
+│     │   │       ├── CHEMONTID:0004314 (Alanine and derivatives): 0.670   │
+│     │   │       └── CHEMONTID:0004330 (Isoleucine and derivatives):      │
+│     │   │           0.850                                                │
+│     │   └── CHEMONTID:0000348 (Peptides): 0.874                          │
+│     │       └── CHEMONTID:0001995 (Cyclic peptides): 0.874               │
+│     └── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.847           │
+│         └── CHEMONTID:0000475 (Carboxylic acid amides): 0.767            │
+│             └── CHEMONTID:0001664 (Tertiary carboxylic acid amides):     │
+│                 0.733                                                    │
+│ CHEMONTID:0002448 (Benzenoids): 0.509                                    │
+│ └── CHEMONTID:0000134 (Phenols): 0.509                                   │
+│     └── CHEMONTID:0004646 (1-hydroxy-2-unsubstituted benzenoids): 0.509  │
+│ CHEMONTID:0003297 (Organic Polymers): 0.767                              │
+│ └── CHEMONTID:0003298 (Polypeptides): 0.767                              │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.997                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.958                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.999                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.996                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.832                  │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.869                    │
+│ │       └── CHEMONTID:0000118 (Ketones): 0.869                           │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.999                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.983                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.983                  │
+│     └── CHEMONTID:0002449 (Amines): 0.579                                │
+│         └── CHEMONTID:0002452 (Tertiary amines): 0.530                   │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R11
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.999                  │
+│ ├── CHEMONTID:0000089 (Pyridines and derivatives): 0.561                 │
+│ ├── CHEMONTID:0000436 (Azoles): 0.990                                    │
+│ │   └── CHEMONTID:0000095 (Thiazoles): 0.984                             │
+│ │       ├── CHEMONTID:0002007 (Thiazolecarboxylic acids and              │
+│ │       │   derivatives): 0.555                                          │
+│ │       │   └── CHEMONTID:0002008 (Thiazolecarboxamides): 0.524          │
+│ │       └── CHEMONTID:0002634 (2,4-disubstituted thiazoles): 0.569       │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.990                       │
+│ ├── CHEMONTID:0004140 (Oxacyclic compounds): 0.938                       │
+│ └── CHEMONTID:0004144 (Heteroaromatic compounds): 0.997                  │
+│ CHEMONTID:0000004 (Organosulfur compounds): 0.549                        │
+│ └── CHEMONTID:0001202 (Thioethers): 0.541                                │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.993                 │
+│ ├── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.993          │
+│ │   ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.993  │
+│ │   │   ├── CHEMONTID:0000347 (Amino acids and derivatives): 0.993       │
+│ │   │   │   ├── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│ │   │   │   │   0.993                                                    │
+│ │   │   │   │   └── CHEMONTID:0001189 (N-acyl-alpha amino acids and      │
+│ │   │   │   │       derivatives): 0.851                                  │
+│ │   │   │   │       └── CHEMONTID:0002402 (N-acyl-alpha amino acids):    │
+│ │   │   │   │           0.851                                            │
+│ │   │   │   └── CHEMONTID:0004176 (Amino acids): 0.780                   │
+│ │   │   └── CHEMONTID:0000348 (Peptides): 0.803                          │
+│ │   ├── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.862           │
+│ │   │   └── CHEMONTID:0000475 (Carboxylic acid amides): 0.815            │
+│ │   │       └── CHEMONTID:0004817 (2-heteroaryl carboxamides): 0.642     │
+│ │   ├── CHEMONTID:0001137 (Monocarboxylic acids and derivatives): 0.576  │
+│ │   └── CHEMONTID:0001205 (Carboxylic acids): 0.974                      │
+│ └── CHEMONTID:0002285 (Carboximidic acids and derivatives): 0.503        │
+│     └── CHEMONTID:0002484 (Carboximidic acids): 0.503                    │
+│ CHEMONTID:0002448 (Benzenoids): 0.915                                    │
+│ CHEMONTID:0003630 (Organic 1,3-dipolar compounds): 0.918                 │
+│ └── CHEMONTID:0003633 (Propargyl-type 1,3-dipolar organic compounds):    │
+│     0.918                                                                │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.999                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.621                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.999                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.999                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.835                  │
+│ │   │   ├── CHEMONTID:0001661 (Secondary alcohols): 0.692                │
+│ │   │   └── CHEMONTID:0002286 (Polyols): 0.658                           │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.955                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.990                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.971                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.971                  │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R15
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.959                  │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.959                       │
+│ └── CHEMONTID:0004144 (Heteroaromatic compounds): 0.742                  │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.972                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.938          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.796  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.796       │
+│     │       └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│     │           0.796                                                    │
+│     ├── CHEMONTID:0001137 (Monocarboxylic acids and derivatives): 0.867  │
+│     └── CHEMONTID:0001205 (Carboxylic acids): 0.938                      │
+│ CHEMONTID:0002448 (Benzenoids): 0.859                                    │
+│ └── CHEMONTID:0002279 (Benzene and substituted derivatives): 0.598       │
+│ CHEMONTID:0003630 (Organic 1,3-dipolar compounds): 0.512                 │
+│ └── CHEMONTID:0003633 (Propargyl-type 1,3-dipolar organic compounds):    │
+│     0.512                                                                │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 1.000                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.853                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.727                  │
+│ │   │   ├── CHEMONTID:0001661 (Secondary alcohols): 0.726                │
+│ │   │   └── CHEMONTID:0002286 (Polyols): 0.666                           │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.697                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.980                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.886                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.886                  │
+│     └── CHEMONTID:0002449 (Amines): 0.546                                │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R17
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000004 (Organosulfur compounds): 0.534                        │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.761                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.761          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.685  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.685       │
+│     └── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.761           │
+│ CHEMONTID:0002448 (Benzenoids): 0.781                                    │
+│ └── CHEMONTID:0000134 (Phenols): 0.781                                   │
+│     └── CHEMONTID:0001286 (Benzenediols): 0.781                          │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.962                       │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.978                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.978                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.855                            │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R20
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.881               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.691                               │
+│     └── CHEMONTID:0000262 (Fatty acids and conjugates): 0.682            │
+│         └── CHEMONTID:0000338 (Branched fatty acids): 0.599              │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.903                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.903          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.903  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.903       │
+│     │       └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│     │           0.903                                                    │
+│     │           └── CHEMONTID:0001189 (N-acyl-alpha amino acids and      │
+│     │               derivatives): 0.903                                  │
+│     │               └── CHEMONTID:0002402 (N-acyl-alpha amino acids):    │
+│     │                   0.903                                            │
+│     ├── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.693           │
+│     │   └── CHEMONTID:0000475 (Carboxylic acid amides): 0.693            │
+│     │       └── CHEMONTID:0003922 (Acetamides): 0.693                    │
+│     └── CHEMONTID:0001205 (Carboxylic acids): 0.878                      │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.970                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.753                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.994                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.994                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.898                  │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.691                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.863                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.925                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.925                  │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R24
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.990                  │
+│ ├── CHEMONTID:0002012 (Oxanes): 0.897                                    │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.761                       │
+│ └── CHEMONTID:0004140 (Oxacyclic compounds): 0.941                       │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.844               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.844                               │
+│     └── CHEMONTID:0001766 (Fatty acyl glycosides): 0.844                 │
+│         └── CHEMONTID:0003861 (Fatty acyl glycosides of mono- and        │
+│             disaccharides): 0.844                                        │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.984                       │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 0.999                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 0.999                    │
+│ │   ├── CHEMONTID:0000011 (Carbohydrates and carbohydrate conjugates):   │
+│ │   │   0.953                                                            │
+│ │   │   ├── CHEMONTID:0001540 (Monosaccharides): 0.953                   │
+│ │   │   └── CHEMONTID:0002105 (Glycosyl compounds): 0.885                │
+│ │   │       └── CHEMONTID:0002207 (O-glycosyl compounds): 0.802          │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.990                  │
+│ │   │   ├── CHEMONTID:0000286 (Primary alcohols): 0.568                  │
+│ │   │   └── CHEMONTID:0001661 (Secondary alcohols): 0.923                │
+│ │   └── CHEMONTID:0000254 (Ethers): 0.673                                │
+│ │       └── CHEMONTID:0001656 (Acetals): 0.673                           │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.899                            │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R25
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.999                  │
+│ ├── CHEMONTID:0000211 (Indoles and derivatives): 0.527                   │
+│ │   └── CHEMONTID:0000183 (Tryptamines and derivatives): 0.527           │
+│ ├── CHEMONTID:0000218 (Pyrrolidines): 0.672                              │
+│ │   └── CHEMONTID:0001903 (Pyrrolidine carboxylic acids and              │
+│ │       derivatives): 0.672                                              │
+│ └── CHEMONTID:0004139 (Azacyclic compounds): 0.999                       │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.819               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.819                               │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.999                 │
+│ ├── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.996          │
+│ │   ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.986  │
+│ │   │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.982       │
+│ │   │       └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│ │   │           0.898                                                    │
+│ │   │           ├── CHEMONTID:0001189 (N-acyl-alpha amino acids and      │
+│ │   │           │   derivatives): 0.841                                  │
+│ │   │           ├── CHEMONTID:0002309 (Alpha amino acid amides): 0.610   │
+│ │   │           ├── CHEMONTID:0004314 (Alanine and derivatives): 0.531   │
+│ │   │           └── CHEMONTID:0004316 (Serine and derivatives): 0.649    │
+│ │   ├── CHEMONTID:0000346 (Dicarboxylic acids and derivatives): 0.726    │
+│ │   ├── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.996           │
+│ │   │   └── CHEMONTID:0000475 (Carboxylic acid amides): 0.950            │
+│ │   │       ├── CHEMONTID:0001663 (Secondary carboxylic acid amides):    │
+│ │   │       │   0.818                                                    │
+│ │   │       └── CHEMONTID:0001664 (Tertiary carboxylic acid amides):     │
+│ │   │           0.675                                                    │
+│ │   └── CHEMONTID:0001205 (Carboxylic acids): 0.915                      │
+│ └── CHEMONTID:0000364 (Organic carbonic acids and derivatives): 0.943    │
+│ CHEMONTID:0002448 (Benzenoids): 0.661                                    │
+│ ├── CHEMONTID:0000134 (Phenols): 0.635                                   │
+│ │   └── CHEMONTID:0004646 (1-hydroxy-2-unsubstituted benzenoids): 0.635  │
+│ └── CHEMONTID:0002279 (Benzene and substituted derivatives): 0.661       │
+│ CHEMONTID:0003630 (Organic 1,3-dipolar compounds): 0.515                 │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.999                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.963                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.967                  │
+│ │   │   ├── CHEMONTID:0000286 (Primary alcohols): 0.874                  │
+│ │   │   └── CHEMONTID:0001661 (Secondary alcohols): 0.967                │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.738                    │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.991                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 1.000                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 1.000                  │
+│     └── CHEMONTID:0002449 (Amines): 0.949                                │
+│         ├── CHEMONTID:0002450 (Primary amines): 0.949                    │
+│         │   └── CHEMONTID:0000469 (Monoalkylamines): 0.949               │
+│         └── CHEMONTID:0002451 (Secondary amines): 0.505                  │
+│             └── CHEMONTID:0002228 (Dialkylamines): 0.505                 │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R26
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.979                  │
+│ ├── CHEMONTID:0000050 (Lactones): 0.939                                  │
+│ └── CHEMONTID:0004140 (Oxacyclic compounds): 0.695                       │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.681               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.681                               │
+│ CHEMONTID:0000261 (Phenylpropanoids and polyketides): 0.871              │
+│ └── CHEMONTID:0000147 (Macrolides and analogues): 0.871                  │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.995                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.995          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.963  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.960       │
+│     │       └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│     │           0.933                                                    │
+│     ├── CHEMONTID:0000346 (Dicarboxylic acids and derivatives): 0.592    │
+│     └── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.995           │
+│         └── CHEMONTID:0001238 (Carboxylic acid esters): 0.959            │
+│ CHEMONTID:0002448 (Benzenoids): 0.974                                    │
+│ └── CHEMONTID:0002279 (Benzene and substituted derivatives): 0.974       │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.999                       │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.890                  │
+│ │   └── CHEMONTID:0000254 (Ethers): 0.820                                │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.999                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.668                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.668                  │
+│     └── CHEMONTID:0000375 (Guanidines): 0.668                            │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R28
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.941                  │
+│ ├── CHEMONTID:0000050 (Lactones): 0.802                                  │
+│ ├── CHEMONTID:0002012 (Oxanes): 0.705                                    │
+│ ├── CHEMONTID:0002648 (Tetrahydrofurans): 0.562                          │
+│ └── CHEMONTID:0004139 (Azacyclic compounds): 0.690                       │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.880               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.516                               │
+│     └── CHEMONTID:0000331 (Fatty amides): 0.516                          │
+│         └── CHEMONTID:0001096 (N-acyl amines): 0.516                     │
+│ CHEMONTID:0000261 (Phenylpropanoids and polyketides): 0.917              │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.946                 │
+│ └── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.830          │
+│     ├── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.830  │
+│     │   └── CHEMONTID:0000347 (Amino acids and derivatives): 0.830       │
+│     │       └── CHEMONTID:0000060 (Alpha amino acids and derivatives):   │
+│     │           0.830                                                    │
+│     │           └── CHEMONTID:0001189 (N-acyl-alpha amino acids and      │
+│     │               derivatives): 0.830                                  │
+│     ├── CHEMONTID:0001093 (Carboxylic acid derivatives): 0.592           │
+│     │   └── CHEMONTID:0000475 (Carboxylic acid amides): 0.592            │
+│     └── CHEMONTID:0001137 (Monocarboxylic acids and derivatives): 0.534  │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.999                       │
+│ CHEMONTID:0004557 (Organopnictogen compounds): 0.896                     │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.965                  │
+│ │   │   └── CHEMONTID:0002286 (Polyols): 0.965                           │
+│ │   ├── CHEMONTID:0000254 (Ethers): 0.654                                │
+│ │   │   └── CHEMONTID:0001167 (Dialkyl ethers): 0.654                    │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 0.945                    │
+│ │       └── CHEMONTID:0000118 (Ketones): 0.945                           │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.882                            │
+│ CHEMONTID:0004707 (Organic nitrogen compounds): 0.817                    │
+│ └── CHEMONTID:0000278 (Organonitrogen compounds): 0.817                  │
+╰──────────────────────────────────────────────────────────────────────────╯
+
+C1R29
+╭─────────────────────────────────── 1 ────────────────────────────────────╮
+│ CHEMONTID:0000002 (Organoheterocyclic compounds): 0.993                  │
+│ ├── CHEMONTID:0001346 (Diazines): 0.553                                  │
+│ │   └── CHEMONTID:0000067 (Pyrazines): 0.553                             │
+│ ├── CHEMONTID:0004139 (Azacyclic compounds): 0.795                       │
+│ └── CHEMONTID:0004788 (Diazanaphthalenes): 0.918                         │
+│     └── CHEMONTID:0004789 (Benzodiazines): 0.918                         │
+│         └── CHEMONTID:0000486 (Quinoxalines): 0.918                      │
+│             └── CHEMONTID:0000416 (Phenazines and derivatives): 0.918    │
+│ CHEMONTID:0000012 (Lipids and lipid-like molecules): 0.607               │
+│ └── CHEMONTID:0003909 (Fatty Acyls): 0.533                               │
+│     └── CHEMONTID:0001334 (Fatty alcohols): 0.533                        │
+│ CHEMONTID:0000264 (Organic acids and derivatives): 0.997                 │
+│ ├── CHEMONTID:0000265 (Carboxylic acids and derivatives): 0.586          │
+│ │   └── CHEMONTID:0000013 (Amino acids, peptides, and analogues): 0.586  │
+│ │       └── CHEMONTID:0000347 (Amino acids and derivatives): 0.586       │
+│ │           └── CHEMONTID:0004176 (Amino acids): 0.586                   │
+│ └── CHEMONTID:0003889 (Vinylogous acids): 0.662                          │
+│ CHEMONTID:0002448 (Benzenoids): 0.997                                    │
+│ ├── CHEMONTID:0000023 (Naphthalenes): 0.880                              │
+│ │   └── CHEMONTID:0000153 (Naphthoquinones): 0.810                       │
+│ ├── CHEMONTID:0000025 (Phenanthrenes and derivatives): 0.604             │
+│ └── CHEMONTID:0000134 (Phenols): 0.979                                   │
+│     ├── CHEMONTID:0004646 (1-hydroxy-2-unsubstituted benzenoids): 0.973  │
+│     └── CHEMONTID:0004647 (1-hydroxy-4-unsubstituted benzenoids): 0.936  │
+│ CHEMONTID:0004150 (Hydrocarbon derivatives): 0.996                       │
+│ CHEMONTID:0004603 (Organic oxygen compounds): 1.000                      │
+│ ├── CHEMONTID:0000323 (Organooxygen compounds): 1.000                    │
+│ │   ├── CHEMONTID:0000129 (Alcohols and polyols): 0.684                  │
+│ │   └── CHEMONTID:0001831 (Carbonyl compounds): 1.000                    │
+│ │       └── CHEMONTID:0000118 (Ketones): 0.974                           │
+│ │           ├── CHEMONTID:0003487 (Cyclic ketones): 0.974                │
+│ │           │   └── CHEMONTID:0002495 (Quinones): 0.974                  │
+│ │           └── CHEMONTID:0003670 (Aryl ketones): 0.705                  │
+│ └── CHEMONTID:0003940 (Organic oxides): 0.998                            │
+╰──────────────────────────────────────────────────────────────────────────╯
